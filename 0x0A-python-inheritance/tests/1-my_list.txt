@@ -1,0 +1,5 @@
+>>> import sys
+>>> sys.path.append('/root/alx-higher_level_programming/0x0A-python-inheritance')
+>>> MyList = __import__('1-my_list').MyList
+
+MyList(1, 2, 3)
